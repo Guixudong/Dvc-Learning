@@ -1,0 +1,6 @@
+[core]
+    remote = dvc
+['remote "dvc"']
+    url = ssh://github.com/Guixudong/Dvc_Learing/dvc
+    ask_password = true
+    port = 22
